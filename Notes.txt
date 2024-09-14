@@ -1,0 +1,6 @@
+Angular Cli
+    npm install -g @angular/cli
+    ng version
+    ng new angular_app
+    npm start
+
